@@ -66,11 +66,17 @@ a:link {
 
 
 
-#island_image, #location_image{
+#island_image, #location_image,
+ #village, #goats, #runway, #SabaScenery,
+ .landing, .large_image{
   width: 800px;
   height: auto;
 } 
 
+.small_image, .small_p{
+  width: 400px;
+  height: auto;
+}
 
 
 
